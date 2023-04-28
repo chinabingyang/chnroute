@@ -1,4 +1,4 @@
-/routing table
+/ip route rule
 add dst-address=1.0.1.0/24 action=lookup table=CT
 add dst-address=1.0.2.0/23 action=lookup table=CT
 add dst-address=1.0.8.0/21 action=lookup table=CT
