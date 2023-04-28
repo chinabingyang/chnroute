@@ -1,4 +1,14 @@
-电信移动 策略路由规则
+电信移动联通 策略路由规则
+
+ros-firewall-CT-CMCC-CU.rsc
+ros-route-CT-CMCC-CU.rsc
+
+一个用于防火墙地址列表
+第二个用于路由表
+
+
+
+
 
 ip段信息取自 https://ispip.clang.cn
 
