@@ -3259,6 +3259,7 @@ add list=CMCC address=114.118.104.0/21
 add list=CMCC address=114.118.112.0/20
 add list=CMCC address=115.180.0.0/17
 add list=CMCC address=116.85.16.0/22
+add list=CMCC address=116.242.224.0/19
 add list=CMCC address=117.48.0.0/18
 add list=CMCC address=117.48.64.0/19
 add list=CMCC address=117.48.144.0/20
@@ -3589,6 +3590,7 @@ add list=CMCC address=114.118.104.0/21
 add list=CMCC address=114.118.112.0/20
 add list=CMCC address=115.180.0.0/17
 add list=CMCC address=116.85.16.0/22
+add list=CMCC address=116.242.224.0/19
 add list=CMCC address=117.48.0.0/18
 add list=CMCC address=117.48.64.0/19
 add list=CMCC address=117.48.144.0/20
